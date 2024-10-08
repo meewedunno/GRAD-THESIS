@@ -16,6 +16,7 @@ Over the past year, Momo eWallet saw a trend of predominantly negative reviews, 
 <img width="444" alt="image" src="https://github.com/user-attachments/assets/035e4a5d-2de1-4aa5-85b2-dca1aa790f4d">
 
 **Positive reviews**
+
 In positive reviews, common words like "tuyệt_vời" (excellent), "tiện_lợi" (convenient), “bảo_mật” (security), and “hài lòng” (satisfied) reflect users' praise for the app's features and benefits. These insights provide valuable information for businesses to enhance product development, marketing, and customer engagement. Additionally, the frequency of positive words surged in October, November 2023, and peaked in April 2024, with words like "ok," "tốt" (good), "tiện_lợi" (convenient), and "nhanh" (fast) being prevalent. This aligns with the analysis of fluctuations in positive reviews.
 
 <img width="423" alt="image" src="https://github.com/user-attachments/assets/e9695f30-4908-4709-8035-c01f25b9c629">
@@ -23,6 +24,7 @@ In positive reviews, common words like "tuyệt_vời" (excellent), "tiện_lợ
 <img width="441" alt="image" src="https://github.com/user-attachments/assets/85d80b43-6ed1-45c1-afa5-882dee75787b">
 
 **Negative reviews**
+
 For the most frequent words in negative reviews, words like "thanh_toán" (payment), "rút_tiền" (withdrawal), "chuyển" (transfer), and "ngân_hàng" (bank) frequently appear, indicating specific issues with transaction processes, fund transfers, and interactions with banks. These negative reviews offer valuable feedback, pinpointing pain points that require urgent attention to improve user satisfaction. Addressing these recurring problems can help Momo enhance the user experience, reduce negative feedback, and potentially increase customer retention.
 
 <img width="424" alt="image" src="https://github.com/user-attachments/assets/4b106b89-136a-482f-8e3d-ed659721fb43">
